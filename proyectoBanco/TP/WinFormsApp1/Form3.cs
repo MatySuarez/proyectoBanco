@@ -1,0 +1,52 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WinFormsApp1
+{
+    public partial class Form3 : Form
+    {
+        public object[] argumentos;
+        List<List<string>> datos;
+        public string email;
+        public Banco miBanco;
+        public Form3(string email, Banco b)
+        {
+            this.miBanco = b;
+            this.email = email;
+        }
+        public Form3(object[] args)
+        {
+            InitializeComponent();
+            miBanco = (Banco)args[1];
+            argumentos = args;
+            label2.Text = (string)args[0];
+            datos = new List<List<string>>();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            refreshData();
+        }
+
+        private void refreshData()
+        {
+            //borro los datos
+            dataGridView1.Rows.Clear();
+            //agrego lo nuevo
+            foreach (Usuario user in miBanco.obtenerCajaDeAhorro())
+                dataGridView1.Rows.Add(user.toArray());
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

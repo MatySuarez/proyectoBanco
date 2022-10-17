@@ -1,0 +1,63 @@
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\bin\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\wgomez\source\repos\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Sebas\OneDrive\Escritorio\DV CUARTO CUATRI\DESARROLLO\Clase4MDI\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Sebas\OneDrive\Escritorio\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Sebas\OneDrive\Escritorio\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Sebas\OneDrive\Escritorio\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Sebas\OneDrive\Escritorio\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Sebas\OneDrive\Escritorio\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sebas\OneDrive\Escritorio\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\OneDrive\Escritorio\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Sebas\OneDrive\Escritorio\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Sebas\OneDrive\Escritorio\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\OneDrive\Escritorio\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Sebas\OneDrive\Escritorio\TP\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Sebas\OneDrive\Escritorio\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
