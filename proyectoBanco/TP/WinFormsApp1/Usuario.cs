@@ -87,5 +87,10 @@ namespace WinFormsApp1
                 this.bloqueado = true;
             }
         }
+
+        internal object[] toArray()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

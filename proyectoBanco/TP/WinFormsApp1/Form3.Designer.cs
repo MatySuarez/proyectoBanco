@@ -36,6 +36,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.Agregar = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
@@ -137,6 +138,7 @@
             // 
             // tabPage1
             // 
+            this.tabPage1.Controls.Add(this.Agregar);
             this.tabPage1.Controls.Add(this.button2);
             this.tabPage1.Controls.Add(this.dataGridView1);
             this.tabPage1.Location = new System.Drawing.Point(4, 24);
@@ -147,6 +149,16 @@
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Caja de Ahorro";
             this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // Agregar
+            // 
+            this.Agregar.Location = new System.Drawing.Point(397, 17);
+            this.Agregar.Name = "Agregar";
+            this.Agregar.Size = new System.Drawing.Size(100, 42);
+            this.Agregar.TabIndex = 2;
+            this.Agregar.Text = "Agregar Caja";
+            this.Agregar.UseVisualStyleBackColor = true;
+            this.Agregar.Click += new System.EventHandler(this.agregarCaja_Click);
             // 
             // button2
             // 
@@ -338,5 +350,6 @@
         private DataGridViewTextBoxColumn Numero;
         private DataGridViewTextBoxColumn CVV;
         private DataGridViewTextBoxColumn Limite;
+        private Button Agregar;
     }
 }

@@ -40,13 +40,22 @@ namespace WinFormsApp1
             //borro los datos
             dataGridView1.Rows.Clear();
             //agrego lo nuevo
-            foreach (Usuario user in miBanco.obtenerCajaDeAhorro())
-                dataGridView1.Rows.Add(user.toArray());
+            foreach (CajaDeAhorro caja in this.miBanco.mostrarCajaDeAhorro())
+                dataGridView1.Rows.Add(caja.toArray());
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void agregarCaja_Click(object sender, EventArgs e)
+        {
+            refreshData();
+            dataGridView1.Rows.Clear();
+            //agrego lo nuevo
+            foreach (Usuario user in miBanco.obtenerCajaDeAhorro())
+                dataGridView1.Rows.Add(user.toArray());
         }
     }
 }

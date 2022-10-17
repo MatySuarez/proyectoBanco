@@ -242,7 +242,7 @@ namespace WinFormsApp1
         {
             return cajaDeAhorro.misMovimientos.ToList();
         }
-        public List<Movimiento> mostrarMovimientos(int Cbu)
+        public List<Movimiento> mostrarMovimientos(string Cbu)
         {
             foreach(CajaDeAhorro caja in usuarioLogueado.misCajasDeAhorro)
                 {
@@ -301,20 +301,70 @@ namespace WinFormsApp1
         {
             this.misCajasDeAhorro.Remove(CajaABorrar);
         }
-        /*public bool crearCajaAhorro(Usuario usuarioLogueado)
+        public bool crearCajaAhorro(Usuario usuarioLogueado)
         {
             try
             {
                 CajaDeAhorro cajaNueva = new CajaDeAhorro();
                 cajaNueva.id = (this.misCajasDeAhorro.Count) + 1;
-                cajaNueva.saldo = 0;
-                cajaNueva.Cbu = rd;
                 usuarioLogueado.agregarCajaDeAhorro(cajaNueva);
                 return true;
             } catch (Exception ex)
             {
                 return false;
             }
-        }     */   
-    }      
+        }     
+        public bool depositar(CajaDeAhorro caja, float monto)
+        {
+            try {
+            int idCajaDeAhorro = this.misCajasDeAhorro.FindIndex(c => c.id == caja.id);
+            CajaDeAhorro cajaActual = this.misCajasDeAhorro[idCajaDeAhorro];
+            if (!cajaActual.depositarMonto(monto)) return false;
+            return true;
+            }
+            catch (Exception ex){
+                return false;
+            }
+        }
+        public bool retirar(CajaDeAhorro caja, float monto)
+        {
+            try { 
+            int idCajaDeAhorro = this.misCajasDeAhorro.FindIndex(c => c.id == caja.id);
+            CajaDeAhorro cajaActual = this.misCajasDeAhorro[idCajaDeAhorro];
+            if (!cajaActual.retirarMonto(monto)) return false;
+            return true;
+            }
+            catch(Exception ex){
+                return false;
+            }
+        }
+        public bool transferir(CajaDeAhorro cajaOrigen, CajaDeAhorro cajaDestino, float monto)
+        {
+            try
+            {
+                int idCajaDestino = this.misCajasDeAhorro.FindIndex(c => c.id == cajaDestino.id);
+                CajaDeAhorro cajaDestinoo = this.misCajasDeAhorro[idCajaDestino];
+                if(!cajaOrigen.retirarMonto(monto)) return false;
+                cajaDestinoo.depositarMonto(monto);
+                return true;
+            }
+            catch (Exception ex){
+                return false;
+            }
+        }
+        public bool buscarMovimiento(CajaDeAhorro caja, String detalle, DateTime fecha, float monto)
+        {
+            return true;
+        }
+
+        internal IEnumerable<Usuario> obtenerCajaDeAhorro()
+        {
+            throw new NotImplementedException();
+        }
+
+        internal IEnumerable<CajaDeAhorro> mostrarCajaDeAhorro()
+        {
+            throw new NotImplementedException();
+        }
+    }
 }

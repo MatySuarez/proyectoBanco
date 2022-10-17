@@ -61,3 +61,23 @@ C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\Wi
 C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
 C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
 C:\Users\Paula\Documents\GitHub\TP 2\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Equipo\Desktop\PDD\proyectoBanco\proyectoBanco\TP\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

@@ -28,5 +28,6 @@ namespace WinFormsApp1
             this.limite = Limite;
             this.consumos = Consumos;
         }
+        
     }
 }
