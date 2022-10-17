@@ -36,11 +36,9 @@ namespace WinFormsApp1
         }
 
         private void refreshData()
-        {
-            //borro los datos
-            dataGridView1.Rows.Clear();
-            //agrego lo nuevo
-            foreach (CajaDeAhorro caja in this.miBanco.mostrarCajaDeAhorro())
+        {            
+            dataGridView1.Rows.Clear();            
+            //foreach (CajaDeAhorro caja in this.miBanco.mostrarCajaDeAhorro())
                 dataGridView1.Rows.Add(caja.toArray());
         }
 
@@ -54,8 +52,16 @@ namespace WinFormsApp1
             refreshData();
             dataGridView1.Rows.Clear();
             //agrego lo nuevo
-            foreach (Usuario user in miBanco.obtenerCajaDeAhorro())
+            //foreach (Usuario user in miBanco.obtenerCajaDeAhorro())
                 dataGridView1.Rows.Add(user.toArray());
         }
+        /*Metodo crear caja que hicieron en otro grupo. crearCaja esta en Banco
+        private void confirmar_Click(object sender, EventArgs e)
+        {
+            Cbu = int.Parse(Cbu.Text);
+            saldoCaja = float.Parse(Saldo.Text);
+            Banco.crearCajaDeAhorro(cbuCaja, saldoCaja);
+        }
+        */
     }
 }

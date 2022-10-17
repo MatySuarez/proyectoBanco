@@ -27,6 +27,11 @@ namespace WinFormsApp1
             this.Cbu = this.crearCBU();
             this.saldo = 0;
         }
+        public CajaDeAhorro(string Cbu, float saldo)
+        {
+            this.Cbu = Cbu;
+            this.saldo = saldo;
+        }
         public bool agregarTitular(Usuario usuario)
         {          
             misTitulares.Add(usuario);

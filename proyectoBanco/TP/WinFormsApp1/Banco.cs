@@ -18,6 +18,7 @@ namespace WinFormsApp1
         private List<Pago> misPagos;
         private List<Movimiento> misMovimientos;
         private Usuario usuarioLogueado;
+        private CajaDeAhorro cajaDeAhorro;
 
         public Banco()
         {
@@ -281,6 +282,33 @@ namespace WinFormsApp1
                 return false;
             }
         }
+        //inicio de sesion de los chicos
+        /*public bool iniciarSesion2(string usuario, string password)
+        {
+            bool encontrar = false;
+            foreach(Usuario u in misUsuarios)
+            {
+                if(u.email.Equals(usuario) && u.password.Equals(password) 
+                {
+                    this.usuarioLogueado = u;
+                    usuarioLogueado.misCajasDeAhorro = new List<CajaDeAhorro>();
+                    encontrar = true;
+                } else if (u.email.Equals(usuario) && !u.password.Equals(password))
+                {
+                    encontrar = false;
+                    u.intentosFallidos++;
+                    if(u.intentosFallidos == 3)
+                    {
+                        u.bloqueado = true;
+                    }
+                } else
+                {
+                    encontrar = false;
+                }
+            }
+        }*/
+         
+
         public bool cerrarSesion()
         {
             try
@@ -356,15 +384,24 @@ namespace WinFormsApp1
         {
             return true;
         }
-
-        internal IEnumerable<Usuario> obtenerCajaDeAhorro()
+        public List<CajaDeAhorro> obtenerCajasDeAhorro()
         {
-            throw new NotImplementedException();
+            return this.usuarioLogueado.misCajasDeAhorro.ToList();
         }
-
-        internal IEnumerable<CajaDeAhorro> mostrarCajaDeAhorro()
+        /*Metodo que hicieron para crearCaja en otro grupo (le hacen un comprobacion)
+         */
+        public bool crearCajaDeAhorro(string cbuCaja, float saldo)
         {
-            throw new NotImplementedException();
-        }
+            try
+            {
+                CajaDeAhorro cajaNueva = new CajaDeAhorro(cbuCaja, saldo);
+                this.usuarioLogueado.misCajasDeAhorro.Add(cajaNueva);
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+        }        
     }
 }
